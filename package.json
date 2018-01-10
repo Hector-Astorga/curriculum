@@ -1,0 +1,22 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "I AM X is a minimalist, modern and well-crafted responsive HTML5 resume template for any kind of creative professionals to show their education, experience, skills, and works history in a perfect way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hector-Astorga/curriculum.git"
+  },
+  "author": "Hector Astorga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hector-Astorga/curriculum/issues"
+  },
+  "homepage": "https://github.com/Hector-Astorga/curriculum#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
